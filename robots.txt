@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chaottle.github.io/news-hthcn-com-cn/sitemap.xml
